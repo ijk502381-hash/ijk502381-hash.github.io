@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Seongjun's Portfolio
+baseurl:
+url: "https://ijk502381-hash.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: Seongjun Lim
+  desc: Student at Korea University
+  email: ijk502381@gmail.com
+  selfie: C:\Users\lig88\Desktop\문서\개인 문서\증명사진.jpg
 
 # social
 social:
